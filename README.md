@@ -2,6 +2,10 @@
 
 This is an isomorphic way to get the dimensions of an image.
 
+# WIP
+
+THis is a stub. I will finish when I have a little more time.
+
 ## Supported formats
 
 * BMP
